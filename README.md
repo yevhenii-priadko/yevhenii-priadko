@@ -13,8 +13,10 @@ HTML | CSS | JavaScript | Git | GitHub | Figma | Vite
 *(React та TypeScript додам у процесі навчання)*
 
 ## 💻 Featured Projects
-- [Меблерія](https://yevhenii-priadko.github.io/it-creators-project-meblerija/) – груповий навчальний проєкт (Figma + фронтенд).  
-- Особисті тестові макети для відпрацювання CSS/JS та модульної структури.  
+- [Меблерія](https://yevhenii-priadko.github.io/it-creators-project-meblerija/) – груповий навчальний проєкт (Figma + фронтенд).
+-[Eco Tote] (https://yevhenii-priadko.github.io/it-creators-13-project-eco-tote/)
+- Особисті тестові макети для відпрацювання CSS/JS та модульної структури.
+
 
 ## 🗣️ Languages
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)  
