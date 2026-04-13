@@ -14,7 +14,7 @@ HTML | CSS | JavaScript | Git | GitHub | Figma | Vite
 
 ## 💻 Featured Projects
 - Меблерія — груповий навчальний проєкт  
-  [Repo](https://github.com/yevhenii-priadko/mebleria) | [Live Demo](https://yevhenii-priadko.github.io/mebleria/)  
+  [Repo](https://github.com/yevhenii-priadko/it-creators-project-meblerija) | [Live Demo](https://yevhenii-priadko.github.io/it-creators-project-meblerija/)  
 
 - Eco Tote — командний проєкт  
   [Repo](https://github.com/yevhenii-priadko/it-creators-13-project-eco-tote) | [Live Demo](https://yevhenii-priadko.github.io/it-creators-13-project-eco-tote/)  
