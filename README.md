@@ -13,9 +13,12 @@ HTML | CSS | JavaScript | Git | GitHub | Figma | Vite
 *(React та TypeScript додам у процесі навчання)*
 
 ## 💻 Featured Projects
-- [Меблерія](https://yevhenii-priadko.github.io/it-creators-project-meblerija/) – груповий навчальний проєкт (Figma + фронтенд).
--[Eco Tote] (https://yevhenii-priadko.github.io/it-creators-13-project-eco-tote/)
-- Особисті тестові макети для відпрацювання CSS/JS та модульної структури.
+- [Меблерія](https://github.com/yevhenii-priadko/mebleria) – груповий навчальний проєкт (Figma + фронтенд). Практика командної роботи, адаптивна верстка та інтеграція макета.  
+
+- [Eco Tote](https://github.com/yevhenii-priadko/it-creators-13-project-eco-tote) – командний проєкт. Верстка та стилізація сторінок, робота з адаптивним дизайном та семантичним HTML.  
+
+- Особисті тестові макети для відпрацювання CSS/JS та модульної структури.  
+
 
 
 ## 🗣️ Languages
