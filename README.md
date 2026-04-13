@@ -13,7 +13,7 @@ HTML | CSS | JavaScript | Git | GitHub | Figma | Vite
 *(React та TypeScript додам у процесі навчання)*
 
 ## 💻 Featured Projects
-- [Меблерія](https://github.com/yevhenii-priadko/mebleria) – груповий навчальний проєкт (Figma + фронтенд).  
+- [Меблерія](https://yevhenii-priadko.github.io/it-creators-project-meblerija/) – груповий навчальний проєкт (Figma + фронтенд).  
 - Особисті тестові макети для відпрацювання CSS/JS та модульної структури.  
 
 ## 🗣️ Languages
