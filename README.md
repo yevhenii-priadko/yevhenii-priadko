@@ -8,7 +8,7 @@ Junior Frontend Developer | HTML | CSS | JavaScript
 Frontend developer in training. Практикую адаптивну верстку, модульну структуру CSS/JS, роботу з Git та GitHub Pages. Ціную чіткі та відтворювані рішення, командну співпрацю та оптимізацію процесів.
 
 ## 🧰 Tech Stack
-HTML | CSS | JavaScript | Git | GitHub | Figma | Vite  
+HTML | CSS | JavaScript |TypeScript|React| Git | GitHub | Figma | Vite  
 
 *(React та TypeScript додам у процесі навчання)*
 
