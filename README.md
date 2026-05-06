@@ -18,7 +18,8 @@ HTML | CSS | JavaScript |TypeScript|React| Git | GitHub | Figma | Vite
 
 - Eco Tote — командний проєкт  
   [Repo](https://github.com/yevhenii-priadko/it-creators-13-project-eco-tote) | [Live Demo](https://yevhenii-priadko.github.io/it-creators-13-project-eco-tote/)  
-
+- ReactQuery
+- [Repo](https://github.com/yevhenii-priadko/04-react-query) | [Live Demo](https://04-react-query-roan-rho.vercel.app/)
 - Особисті тестові макети для відпрацювання CSS/JS та модульної структури  
 
 
