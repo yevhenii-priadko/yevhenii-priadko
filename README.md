@@ -41,7 +41,8 @@ For years I kept live TV broadcasts on air as a sound engineer. Now I build full
 Astro, TypeScript, i18n, lead-capture form, Lighthouse optimization, deployed on Vercel.  
 [Live](https://www.flow-atelier.studio) · [Code](https://github.com/yevhenii-priadko/n8n.flow-atelier)
 
-**Railway Atelier**: portfolio website for a model locomotive workshop. I worked directly with the client from requirements to launch, then migrated the site from static HTML/CSS to Next.js with UA/EN/DE i18n.  
+**Railway Atelier**: portfolio website for a model locomotive workshop, built directly with the client from requirements to launch.  
+Next.js 16 (App Router, TypeScript), UA/EN/DE i18n, a password-protected admin panel (Server Actions, httpOnly session cookie), works in MongoDB, photos in GridFS. Raised mobile PageSpeed from 71 to 92.  
 [Live](https://railway-atelier.studio) · [Code](https://github.com/yevhenii-priadko/railway-atelier)
 
 ## 🚀 Team Projects
