@@ -2,6 +2,8 @@
 
 **Junior Fullstack Developer** · Node.js · React · Next.js · TypeScript · Kyiv, Ukraine
 
+🌐 **Portfolio:** [yevhenii-priadko.vercel.app](https://yevhenii-priadko.vercel.app)
+
 For years I kept live TV broadcasts on air as a sound engineer. Now I build fullstack web apps, from REST APIs on Node.js and MongoDB to Next.js frontends, and ship them to real clients. I care about clean, predictable solutions, teamwork, and code that is easy to hand over.
 
 ## 🧰 Tech Stack
@@ -71,4 +73,4 @@ Backend: Express 5, MongoDB, access/refresh JWT sessions in httpOnly cookies, Cl
 ![Russian](https://img.shields.io/badge/Russian-Native-lightgrey?style=flat-square)
 
 ## 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/yevhenii-priadko) · [Telegram](https://t.me/Evgeniy_02084) · [Email](mailto:yevheniipriadko.111@gmail.com)
+[Portfolio](https://yevhenii-priadko.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yevhenii-priadko) · [Telegram](https://t.me/Evgeniy_02084) · [Email](mailto:yevheniipriadko.111@gmail.com)
