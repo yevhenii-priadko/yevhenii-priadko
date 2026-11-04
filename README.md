@@ -4,6 +4,8 @@
 
 🌐 **Portfolio:** [yevhenii-priadko.vercel.app](https://yevhenii-priadko.vercel.app)
 
+[![Yevhenii Priadko — Junior Fullstack Developer portfolio](https://yevhenii-priadko.vercel.app/og/og-en.png)](https://yevhenii-priadko.vercel.app)
+
 For years I kept live TV broadcasts on air as a sound engineer. Now I build fullstack web apps, from REST APIs on Node.js and MongoDB to Next.js frontends, and ship them to real clients. I care about clean, predictable solutions, teamwork, and code that is easy to hand over.
 
 ## 🧰 Tech Stack
